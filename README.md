@@ -4,5 +4,5 @@ BANK LOAN PREDICTION BASED ON MACHINE LEARNING
 ## DEMO
 
 <div>
-  <img src="https://github.com/AmineRACHID/BANK-LOAN/assets/127174852/ad1557e2-fd8d-4864-b21d-992c17c51f50" >
+  <img src="https://github.com/YOUNESSZYADImiaad/Bank-Loan/commit/212f42c324a30c5a4c747d05563996b91ba894fb" >
 </div>
